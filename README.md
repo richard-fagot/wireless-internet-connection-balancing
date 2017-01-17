@@ -28,3 +28,5 @@ hostapd ?
 **google words** : share wireless connection through ethernet || wlan eth
 
 see : http://unix.stackexchange.com/questions/243408/share-wlan-connection-to-ethernet-using-command-line
+
+## Device with usefull wireless and gigabyte ethernet
