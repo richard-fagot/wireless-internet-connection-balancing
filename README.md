@@ -14,3 +14,17 @@ The fabulous device switch between each available connections according to :
 - The connection is an authorized one (if I am near a complete consumption of data on my mobile I don't want to share my connection anymore to be able to use my phone normally when I'm outside home) ;
 - select 4G modem last (use it only when no other solution is possible to ensure minimization of data consumption, thus home is always connected).
 
+# What I need
+
+## Discover and connect to multiple wireles internet connections
+hostapd ?
+
+## Introduce logic in the selection of the internet connection
+
+## Declairing a connection avalaible or not
+
+## Sharing internet connection through ethernet
+
+**google words** : share wireless connection through ethernet || wlan eth
+
+see : http://unix.stackexchange.com/questions/243408/share-wlan-connection-to-ethernet-using-command-line
