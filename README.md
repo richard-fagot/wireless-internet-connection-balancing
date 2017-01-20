@@ -26,6 +26,7 @@ hostapd ?
 ## Sharing internet connection through ethernet
 
 **google words** : share wireless connection through ethernet || wlan eth
+**google words** : share wifi internet over lan linux server
 
 see : http://unix.stackexchange.com/questions/243408/share-wlan-connection-to-ethernet-using-command-line
 
